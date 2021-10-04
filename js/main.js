@@ -5,10 +5,10 @@
     
     //Initialization Of Array of Music, Title , Poster Image , Artists
 	dir = "music/";
-    playlist = ["MiyaGi-Родная","Eminem-LoseYourselfEmimem","Cennetten-cicek","G-Said","Запах-женщины-моей"];
-    title = ["MiyaGi-Родная","Eminem-LoseYourself","Cennetten-cicek","Yaxshi bollaga","Запах-женщины-моей"];
-    poster = ["images/ncs1.jpeg","images/ncs2.jpg","images/ncs3.jpg","images/ncs4.jpg","images/ncs5.jpg"];
-    artists = ["(feat. MiyaGi) ","(feat. Eminem)","(feat. Zehra)","G-Said","Unknown Umar Ubduganiyev"];
+    playlist = ["MiyaGi-Родная","Eminem-LoseYourselfEmimem","Cennetten-cicek","G-Said","Запах-женщины-моей" , "Xcho-I-can-fly" , "Xcho-Лондон"];
+    title = ["MiyaGi-Родная","Eminem-LoseYourself","Cennetten-cicek","Yaxshi bollaga","Запах-женщины-моей" , "Xcho-I-can-fly" , "Xcho-Лондон"];
+    poster = ["images/ncs1.jpeg","images/ncs2.jpg","images/ncs3.jpg","images/ncs4.jpg","images/ncs5.jpg" , "images/ncs1.jpeg" , "images/ncs5.jpg"];
+    artists = ["(feat. MiyaGi) ","(feat. Eminem)","(feat. Zehra)","G-Said","Unknown Umar Ubduganiyev","Xcho","Xcho"];
     playlist_index = 0;
 
     //Used to run on every browser
